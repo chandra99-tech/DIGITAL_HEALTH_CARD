@@ -119,5 +119,41 @@ VALUES
 
 ('HealthCare Labs', 'Radiology', 'healthcare.lab@gmail.com', '9001122334', 'Pune, Maharashtra');
 
+HospitalAdmin Table
 
+AdminId (VARCHAR(20) or UUID, Primary Key)
+FirstName (VARCHAR(50))
+MiddleName (VARCHAR(50), nullable)
+LastName (VARCHAR(50))
+EmployeeID (VARCHAR(50), unique)
+Role (ENUM('SuperAdmin', 'ITAdmin', 'ComplianceOfficer', 'DepartmentHead'))
+Department (VARCHAR(50), nullable)
+HospitalId (VARCHAR(20), nullable, Foreign Key to Hospitals table if exists)
+HireDate (DATE, nullable)
+Email (VARCHAR(100), unique)
+PhoneNumber (VARCHAR(20), nullable)
+PasswordHash (VARCHAR(255))
+LastLoginAt (TIMESTAMP, nullable)
+FailedLoginAttempts (INT, default: 0)
+IsActive (BOOLEAN, default: true)
+CreatedAt (TIMESTAMP)
+UpdatedAt (TIMESTAMP)
+
+CREATE TABLE HospitalAdmin (
+AdminId INT AUTO_INCREMENT PRIMARY KEY,
+FirstName VARCHAR(50),
+MiddleName VARCHAR(50),
+LastName VARCHAR(50),
+HireDate DATE,
+Experience INT,
+Role VARCHAR(50),
+Email VARCHAR(100),
+PhoneNumber VARCHAR(15),
+OfficeAddress VARCHAR(255)
+);
+INSERT INTO HospitalAdmin
+(FirstName, MiddleName, LastName, HireDate, Experience, Role, Email, PhoneNumber, OfficeAddress)
+VALUES
+('Amit', 'Vijay', 'Patel', '2015-03-15', 10, 'ITAdmin', 'amit.patel@hospital.com', '9876543211', 'Mumbai, Maharashtra'),
+('Sneha', 'Deepak', 'Rao', '2018-07-22', 7, 'ComplianceOfficer', 'sneha.rao@hospital.com', '9123456781', 'Pune, Maharashtra');
 
