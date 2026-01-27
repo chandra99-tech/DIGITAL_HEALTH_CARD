@@ -1,291 +1,287 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\",
+  "WorkspaceRootPath": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\verifyloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\verifyloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\verifyloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\sendloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\sendloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\sendloginotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\medicalreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\medicalreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\medicalreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\uploadreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\uploadreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\uploadreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\hospitaladmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\hospitaladmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\hospitaladmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\nomineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\nomineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\nomineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\labtechnicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\labtechnicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\labtechnicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\updatepatientmedicaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\updatepatientmedicaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\updatepatientmedicaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\registerlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\registerlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\registerlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\labtechlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\labtechlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\labtechlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\labtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\labtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\labtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\medicalreportuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\medicalreportuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\medicalreportuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\createlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\createlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\createlabtechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\hospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\hospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\hospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\doctorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\doctorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\doctorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\medicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\medicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\medicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\healthcardpdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\healthcardpdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\healthcardpdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\medicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\medicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\medicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\emergencyaccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\emergencyaccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\emergencyaccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\nominee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\nominee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\nominee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\ismsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\ismsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\ismsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\controllers\\aadhaarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\controllers\\aadhaarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\controllers\\aadhaarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\twiliosmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\twiliosmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\twiliosmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\model\\aadhaarmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\model\\aadhaarmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\model\\aadhaarmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\fast2smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\fast2smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\fast2smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\labtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\labtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\labtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260124154432_AddAadhaarOtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\dtos\\createmedicalreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\dtos\\createmedicalreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\dtos\\createmedicalreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260124122326_AddReportFilePath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\imedicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\imedicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\imedicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\imedicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\imedicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\imedicalreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\labtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\labtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\labtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\services\\ilabtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\services\\ilabtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\services\\ilabtechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\repositories\\ilabtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\repositories\\ilabtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\repositories\\ilabtechnicianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\migrations\\20260126013213_makedoctorpasswordnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\migrations\\20260126013213_makedoctorpasswordnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\migrations\\20260126013213_makedoctorpasswordnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\migrations\\20260126014319_addhospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\migrations\\20260126014319_addhospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\migrations\\20260126014319_addhospitaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\migrations\\20260126012520_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\migrations\\20260126012520_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\migrations\\20260126012520_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|e:\\local repo test\\healthcardapi\\healthcardapi\\healthcardapi\\migrations\\20260126081300_labupadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|d:\\health card\\digital_health_card\\healthcardapi\\healthcardapi\\migrations\\20260126081300_labupadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953EA4A4-8931-48E7-85D4-306F353A574E}|HealthCardAPI\\HealthCardAPI.csproj|solutionrelative:healthcardapi\\migrations\\20260126081300_labupadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -296,119 +292,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T14:39:50.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T14:39:50.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "VerifyLoginOtpDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\VerifyLoginOtpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T22:09:07.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T22:09:07.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PatientService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\PatientService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\PatientService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\PatientService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\PatientService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\PatientService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAIwEUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAUwEUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T10:57:26.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IJwtService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IJwtService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IJwtService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\IJwtService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IJwtService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T22:15:18.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T22:15:18.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "HealthCardAPI\\Services\\JwtService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "HealthCardAPI\\Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:16:06.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "HealthCardAPI\\Services\\JwtService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\JwtService.cs",
-              "RelativeToolTip": "HealthCardAPI\\Services\\JwtService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T22:16:06.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Program.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Program.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Program.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Program.cs",
               "RelativeToolTip": "HealthCardAPI\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwIUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwIUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T10:20:04.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T10:20:04.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SendLoginOtpDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\SendLoginOtpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T22:05:36.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T22:05:36.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SendOtpDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendOtpDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendOtpDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\SendOtpDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendOtpDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\SendOtpDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\SendOtpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:24:12.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T15:24:12.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "LabTechniciansController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\LabTechniciansController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\LabTechniciansController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\LabTechniciansController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\LabTechniciansController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\LabTechniciansController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\LabTechniciansController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,9 +407,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "OtpService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\OtpService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\OtpService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\OtpService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\OtpService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\OtpService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\OtpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,22 +419,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "PatientsController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\PatientsController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\PatientsController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\PatientsController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\PatientsController.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAswGkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T10:21:30.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T10:21:30.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IOtpService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IOtpService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IOtpService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\IOtpService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IOtpService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IOtpService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\IOtpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,9 +443,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "HealthCardAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,22 +455,21 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\appsettings.json",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\appsettings.json",
               "RelativeDocumentMoniker": "HealthCardAPI\\appsettings.json",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\appsettings.json",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\appsettings.json",
               "RelativeToolTip": "HealthCardAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-24T10:19:05.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T10:19:05.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "MedicalReportsController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\MedicalReportsController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\MedicalReportsController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\MedicalReportsController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\MedicalReportsController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\MedicalReportsController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\MedicalReportsController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAYwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,9 +479,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UploadReportDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\UploadReportDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\UploadReportDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\UploadReportDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\UploadReportDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\UploadReportDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\UploadReportDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -504,9 +491,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "NomineeController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\NomineeController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\NomineeController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\NomineeController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\NomineeController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\NomineeController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\NomineeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,9 +503,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DoctorsController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\DoctorsController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\DoctorsController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\DoctorsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,9 +515,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "HospitalAdminController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\HospitalAdminController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\HospitalAdminController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\HospitalAdminController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\HospitalAdminController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\HospitalAdminController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\HospitalAdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -540,9 +527,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "UpdatePatientMedicalDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\UpdatePatientMedicalDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -552,9 +539,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "AdminLoginDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\AdminLoginDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\AdminLoginDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\AdminLoginDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\AdminLoginDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\AdminLoginDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\AdminLoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -564,9 +551,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "RegisterLabTechnicianDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\RegisterLabTechnicianDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -576,9 +563,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "20260126081300_LabUpadte.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
               "RelativeToolTip": "HealthCardAPI\\Migrations\\20260126081300_LabUpadte.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,9 +575,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "LabTechLoginDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\LabTechLoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -600,9 +587,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "CreateLabTechnicianDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\CreateLabTechnicianDto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -612,9 +599,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "MedicalReportUploadDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\MedicalReportUploadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,9 +611,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "LabTechnician.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\LabTechnician.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\LabTechnician.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\LabTechnician.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\LabTechnician.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\LabTechnician.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\LabTechnician.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,9 +623,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CreatePatientDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreatePatientDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreatePatientDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\CreatePatientDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreatePatientDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreatePatientDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\CreatePatientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,9 +635,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "20260126013213_MakeDoctorPasswordNullable.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
               "RelativeToolTip": "HealthCardAPI\\Migrations\\20260126013213_MakeDoctorPasswordNullable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -660,9 +647,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "HospitalAdmin.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\HospitalAdmin.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\HospitalAdmin.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\HospitalAdmin.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\HospitalAdmin.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\HospitalAdmin.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\HospitalAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -672,9 +659,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "20260126014319_AddHospitalAdmin.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
               "RelativeToolTip": "HealthCardAPI\\Migrations\\20260126014319_AddHospitalAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,9 +671,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Doctor.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Doctor.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\Doctor.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Doctor.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Doctor.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\Doctor.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,9 +683,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "DoctorLoginDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\DoctorLoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -708,9 +695,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "20260126012520_IntialCreate.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
               "RelativeToolTip": "HealthCardAPI\\Migrations\\20260126012520_IntialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -720,9 +707,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "RegisterDoctorDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\RegisterDoctorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -732,9 +719,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "HealthCardPdfGenerator.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\HealthCardPdfGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -744,9 +731,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "MedicalReportRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\MedicalReportRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -756,9 +743,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "MedicalReport.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\MedicalReport.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\MedicalReport.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\MedicalReport.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\MedicalReport.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\MedicalReport.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\MedicalReport.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -768,9 +755,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "MedicalReportService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\MedicalReportService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\MedicalReportService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\MedicalReportService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\MedicalReportService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\MedicalReportService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\MedicalReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -780,9 +767,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "EmergencyAccessDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\EmergencyAccessDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -792,9 +779,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Nominee.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Nominee.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Nominee.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\Nominee.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Nominee.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Nominee.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\Nominee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -804,9 +791,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\LoginDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -816,9 +803,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\User.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\User.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\User.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\User.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\User.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -828,9 +815,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "OtpVerification.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\OtpVerification.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\OtpVerification.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\OtpVerification.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\OtpVerification.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\OtpVerification.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\OtpVerification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -840,9 +827,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "ISmsService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\ISmsService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\ISmsService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\ISmsService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\ISmsService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\ISmsService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\ISmsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -852,9 +839,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "VerifyOtpDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\VerifyOtpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -864,9 +851,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Patient.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Patient.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Patient.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\Patient.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\Patient.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\Patient.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\Patient.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -876,9 +863,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "PatientRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\PatientRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\PatientRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\PatientRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\PatientRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\PatientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -888,9 +875,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "RegisterPatientDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\RegisterPatientDto.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA7wBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -900,9 +887,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "AadhaarController.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\AadhaarController.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\AadhaarController.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Controllers\\AadhaarController.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Controllers\\AadhaarController.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Controllers\\AadhaarController.cs",
               "RelativeToolTip": "HealthCardAPI\\Controllers\\AadhaarController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -912,9 +899,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "IPatientRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IPatientRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IPatientRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\IPatientRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IPatientRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\IPatientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -924,9 +911,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "IPatientService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IPatientService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IPatientService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\IPatientService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IPatientService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IPatientService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\IPatientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -936,9 +923,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "TwilioSmsService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\TwilioSmsService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\TwilioSmsService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\TwilioSmsService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\TwilioSmsService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\TwilioSmsService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\TwilioSmsService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -948,9 +935,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "AadhaarMock.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\AadhaarMock.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\AadhaarMock.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Model\\AadhaarMock.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Model\\AadhaarMock.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Model\\AadhaarMock.cs",
               "RelativeToolTip": "HealthCardAPI\\Model\\AadhaarMock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -960,9 +947,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "Fast2SmsService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\Fast2SmsService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\Fast2SmsService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\Fast2SmsService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\Fast2SmsService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\Fast2SmsService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\Fast2SmsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -972,9 +959,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "IDoctorService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IDoctorService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IDoctorService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\IDoctorService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IDoctorService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IDoctorService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\IDoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -984,9 +971,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "LabTechnicianRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\LabTechnicianRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -997,9 +984,7 @@
               "DocumentIndex": 54,
               "Title": "20260125171626_InitialCreate.cs",
               "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs",
-              "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs",
               "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs",
-              "RelativeToolTip": "HealthCardAPI\\Migrations\\20260125171626_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T17:16:26.938Z"
             },
@@ -1008,9 +993,7 @@
               "DocumentIndex": 55,
               "Title": "20260125171424_MakeNomineeIdNullable.cs",
               "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs",
-              "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs",
               "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs",
-              "RelativeToolTip": "HealthCardAPI\\Migrations\\20260125171424_MakeNomineeIdNullable.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T17:14:24.248Z"
             },
@@ -1019,9 +1002,7 @@
               "DocumentIndex": 53,
               "Title": "20260125172011_InitialCreate.cs",
               "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs",
-              "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs",
               "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs",
-              "RelativeToolTip": "HealthCardAPI\\Migrations\\20260125172011_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T17:20:12.144Z"
             },
@@ -1030,9 +1011,7 @@
               "DocumentIndex": 56,
               "Title": "20260125170452_FixOtpVerification.cs",
               "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs",
-              "RelativeDocumentMoniker": "HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs",
               "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs",
-              "RelativeToolTip": "HealthCardAPI\\Migrations\\20260125170452_FixOtpVerification.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T17:04:52.544Z"
             },
@@ -1058,9 +1037,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "CreateMedicalReportDto.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
               "RelativeToolTip": "HealthCardAPI\\DTOs\\CreateMedicalReportDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1070,9 +1049,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "IMedicalReportService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IMedicalReportService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IMedicalReportService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\IMedicalReportService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\IMedicalReportService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\IMedicalReportService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\IMedicalReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1082,9 +1061,9 @@
               "$type": "Document",
               "DocumentIndex": 64,
               "Title": "IMedicalReportRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\IMedicalReportRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1094,9 +1073,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "LabTechnicianService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\LabTechnicianService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\LabTechnicianService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\LabTechnicianService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\LabTechnicianService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\LabTechnicianService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\LabTechnicianService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1106,9 +1085,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "ILabTechnicianService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\ILabTechnicianService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\ILabTechnicianService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\ILabTechnicianService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\ILabTechnicianService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\ILabTechnicianService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\ILabTechnicianService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1118,9 +1097,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "ILabTechnicianRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\ILabTechnicianRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1130,9 +1109,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "DoctorService.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\DoctorService.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\DoctorService.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Services\\DoctorService.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Services\\DoctorService.cs",
               "RelativeToolTip": "HealthCardAPI\\Services\\DoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1142,9 +1121,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\DoctorRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\DoctorRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\DoctorRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1154,9 +1133,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "IDoctorRepository.cs",
-              "DocumentMoniker": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IDoctorRepository.cs",
+              "DocumentMoniker": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IDoctorRepository.cs",
               "RelativeDocumentMoniker": "HealthCardAPI\\Repositories\\IDoctorRepository.cs",
-              "ToolTip": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\Repositories\\IDoctorRepository.cs",
+              "ToolTip": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\Repositories\\IDoctorRepository.cs",
               "RelativeToolTip": "HealthCardAPI\\Repositories\\IDoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

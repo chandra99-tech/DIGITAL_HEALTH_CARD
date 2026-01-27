@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj": {}
+    "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj": {}
   },
   "projects": {
-    "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj": {
+    "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj",
+        "projectUniqueName": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj",
         "projectName": "HealthCardAPI",
-        "projectPath": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj",
-        "packagesPath": "C:\\Users\\Kedar Mane\\.nuget\\packages\\",
-        "outputPath": "E:\\Local Repo Test\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI\\obj\\",
+        "projectPath": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\HealthCardAPI.csproj",
+        "packagesPath": "C:\\Users\\PARTH\\.nuget\\packages\\",
+        "outputPath": "D:\\Health card\\DIGITAL_HEALTH_CARD\\HealthCardAPI\\HealthCardAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kedar Mane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PARTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
