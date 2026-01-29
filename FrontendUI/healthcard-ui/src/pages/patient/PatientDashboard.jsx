@@ -4,8 +4,8 @@ import {
   FaIdCard,
   FaFileMedical,
   FaDownload,
-  FaSignOutAlt,
-} from "react-icons/fa";
+  FaArrowRightFromBracket,
+} from "react-icons/fa6";
 
 export default function PatientDashboard() {
   // MOCK DATA (replace with API later)
@@ -39,7 +39,7 @@ export default function PatientDashboard() {
           <small>Your Digital Health Records</small>
         </div>
         <button style={styles.logoutBtn}>
-          <FaSignOutAlt /> Logout
+          <FaArrowRightFromBracket /> Logout
         </button>
       </div>
 
