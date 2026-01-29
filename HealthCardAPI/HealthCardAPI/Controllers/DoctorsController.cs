@@ -19,21 +19,28 @@ namespace HealthCardAPI.Controllers
             _context = context;
         }
 
+        // 👤 GET LOGGED-IN DOCTOR PROFILE
         [Authorize(Roles = "Doctor")]
         [HttpGet("me")]
-        public async Task<IActionResult> GetMe()
+        public async Task<IActionResult> GetProfile()
         {
-            var doctorId = int.Parse(User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier).Value);
+            var doctorIdClaim = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier);
+            
+            if (doctorIdClaim == null) return Unauthorized("Invalid token");
+
+            int doctorId = int.Parse(doctorIdClaim.Value);
             var doctor = await _context.Doctors.FindAsync(doctorId);
 
-            if (doctor == null) return NotFound();
+            if (doctor == null) return NotFound("Doctor not found");
 
             return Ok(new
             {
+                doctor.Id,
                 doctor.Name,
                 doctor.Email,
                 doctor.Specialization,
                 doctor.LicenseNumber,
+                doctor.PhoneNumber,
                 doctor.HospitalId
             });
         }
@@ -84,36 +91,7 @@ namespace HealthCardAPI.Controllers
             return Ok(doctors);
         }
 
-        // 👤 GET LOGGED-IN DOCTOR PROFILE
-        [Authorize(Roles = "Doctor")]
-        [HttpGet("me")]
-        public async Task<IActionResult> GetDoctorProfile()
-        {
-            var doctorIdClaim = User.Claims.FirstOrDefault(c => c.Type == "id")?.Value; // Custom "id" claim
-            // Or use generic ClaimTypes.NameIdentifier if you changed JwtService
-            // Let's assume JwtService uses "id" as per AuthController
 
-            if (string.IsNullOrEmpty(doctorIdClaim))
-                return Unauthorized("Invalid token");
-
-            int doctorId = int.Parse(doctorIdClaim);
-
-            var doctor = await _context.Doctors.FindAsync(doctorId);
-
-            if (doctor == null)
-                return NotFound("Doctor not found");
-
-            return Ok(new
-            {
-                doctor.Id,
-                doctor.Name,
-                doctor.Email,
-                doctor.Specialization,
-                doctor.LicenseNumber,
-                doctor.PhoneNumber,
-                doctor.HospitalId
-            });
-        }
 
         // 📋 GET MY PATIENTS (For now, returns all patients as demo)
         [Authorize(Roles = "Doctor")]
