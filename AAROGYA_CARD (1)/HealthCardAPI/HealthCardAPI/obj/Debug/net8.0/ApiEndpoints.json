@@ -1,0 +1,618 @@
+[
+  {
+    "ContainingType": "AadhaarController",
+    "Method": "SendOtp",
+    "RelativePath": "api/aadhaar/send-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SendOtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AadhaarController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/aadhaar/verify-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "VerifyOtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AccessController",
+    "Method": "GetPendingRequests",
+    "RelativePath": "api/access/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AccessController",
+    "Method": "RequestAccess",
+    "RelativePath": "api/access/request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HealthCardAPI.Controllers.AccessRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AccessController",
+    "Method": "RespondToRequest",
+    "RelativePath": "api/access/respond",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "response",
+        "Type": "HealthCardAPI.Controllers.RespondRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AccessController",
+    "Method": "GetStatus",
+    "RelativePath": "api/access/status/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuditController",
+    "Method": "LogView",
+    "RelativePath": "api/audit/log-view",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HealthCardAPI.Controllers.ReportViewRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuditController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/audit/patient-notifications/{aadhaar}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aadhaar",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "AdminLogin",
+    "RelativePath": "api/auth/admin/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.AdminLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "DoctorForgotPassword",
+    "RelativePath": "api/auth/doctor/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.DoctorForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "DoctorLogin",
+    "RelativePath": "api/auth/doctor/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.DoctorLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "DoctorResetPassword",
+    "RelativePath": "api/auth/doctor/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.DoctorResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "LabTechForgotPassword",
+    "RelativePath": "api/auth/lab-tech/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.LabTechForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "LabTechLogin",
+    "RelativePath": "api/auth/lab-tech/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.LabTechLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "LabTechResetPassword",
+    "RelativePath": "api/auth/lab-tech/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.LabTechResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "SendLoginOtp",
+    "RelativePath": "api/auth/send-login-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.SendLoginOtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.AuthController",
+    "Method": "VerifyLoginOtp",
+    "RelativePath": "api/auth/verify-login-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.VerifyLoginOtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.DoctorsController",
+    "Method": "GetMe",
+    "RelativePath": "api/doctors/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.DoctorsController",
+    "Method": "Register",
+    "RelativePath": "api/doctors/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.RegisterDoctorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "GetPendingDoctors",
+    "RelativePath": "api/hospital-admin/pending-doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "GetPendingLabTechnicians",
+    "RelativePath": "api/hospital-admin/pending-lab-technicians",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "RegisterLabTechnician",
+    "RelativePath": "api/hospital-admin/register-lab-technician",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.RegisterLabTechnicianDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "UnverifyDoctor",
+    "RelativePath": "api/hospital-admin/unverify-doctor/{doctorId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "UnverifyLabTechnician",
+    "RelativePath": "api/hospital-admin/unverify-lab-technician/{techId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "techId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "GetVerifiedDoctors",
+    "RelativePath": "api/hospital-admin/verified-doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "GetVerifiedLabTechnicians",
+    "RelativePath": "api/hospital-admin/verified-lab-technicians",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "VerifyDoctor",
+    "RelativePath": "api/hospital-admin/verify-doctor/{doctorId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.HospitalAdminController",
+    "Method": "VerifyLabTechnician",
+    "RelativePath": "api/hospital-admin/verify-lab-technician/{techId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "techId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.LabTechniciansController",
+    "Method": "GetAll",
+    "RelativePath": "api/LabTechnicians",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.LabTechniciansController",
+    "Method": "Create",
+    "RelativePath": "api/LabTechnicians",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.CreateLabTechnicianDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.LabTechniciansController",
+    "Method": "GetMe",
+    "RelativePath": "api/LabTechnicians/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.LabTechniciansController",
+    "Method": "Register",
+    "RelativePath": "api/LabTechnicians/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.RegisterLabTechnicianDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.NomineeController",
+    "Method": "EmergencyAccess",
+    "RelativePath": "api/nominee/emergency-access",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.EmergencyAccessDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "GetByAadhaar",
+    "RelativePath": "api/Patients/{aadhaar}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aadhaar",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "DownloadHealthCard",
+    "RelativePath": "api/Patients/health-card",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "UpdateMedicalData",
+    "RelativePath": "api/Patients/medical-update/{patientId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.UpdatePatientMedicalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Patients/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "GetPatientReadonly",
+    "RelativePath": "api/Patients/readonly/{healthCardId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "healthCardId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HealthCardAPI.Controllers.PatientsController",
+    "Method": "Register",
+    "RelativePath": "api/Patients/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthCardAPI.DTOs.RegisterPatientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalReportsController",
+    "Method": "GetReports",
+    "RelativePath": "api/reports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "healthCardId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalReportsController",
+    "Method": "Upload",
+    "RelativePath": "api/reports/upload/{healthCardId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "healthCardId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

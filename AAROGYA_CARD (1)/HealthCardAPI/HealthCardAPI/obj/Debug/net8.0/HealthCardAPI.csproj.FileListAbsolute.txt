@@ -1,0 +1,904 @@
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\source\repos\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Twilio.dll
+E:\DEMO Project\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.runtime.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\OFL.txt
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\QuestPDF.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Twilio.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+E:\Local Repo Test\HealthCardAPI\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.runtime.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\QuestPDF.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Twilio.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+D:\PROJECT\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.runtime.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\OFL.txt
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\QuestPDF.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Twilio.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.sourcelink.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+E:\AarogyaCard\DIGITAL_HEALTH_CARD\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.staticwebassets.endpoints.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.exe
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.deps.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\HealthCardAPI.pdb
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\QuestPDF.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\Twilio.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.sourcelink.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\scopedcss\bundle\HealthCardAPI.styles.css
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCa.B7F4720F.Up2Date
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\refint\HealthCardAPI.dll
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.pdb
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\HealthCardAPI.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Project\DIGITAL_HEALTH_CARD\AAROGYA_CARD (1)\HealthCardAPI\HealthCardAPI\obj\Debug\net8.0\ref\HealthCardAPI.dll
